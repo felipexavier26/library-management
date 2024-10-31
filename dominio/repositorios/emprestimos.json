@@ -1,0 +1,145 @@
+[
+    {
+        "usuario": {
+            "nome": "Jo\u00e3o Silva",
+            "email": "joao.silva@example.com",
+            "tipoUsuario": "Aluno"
+        },
+        "livro": {
+            "titulo": "9780134190440",
+            "isbn": "Robin Nixon"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:15:42",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Maria Oliveira",
+            "email": "maria.oliveira@example.com",
+            "tipoUsuario": "Professor"
+        },
+        "livro": {
+            "titulo": "9781491950296",
+            "isbn": "Douglas Crockford"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:16:00",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Carlos Pereira",
+            "email": "carlos.pereira@example.com",
+            "tipoUsuario": "Aluno"
+        },
+        "livro": {
+            "titulo": "9780134757599",
+            "isbn": "Robert C. Martin"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:16:08",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Ana Costa",
+            "email": "ana.costa@example.com",
+            "tipoUsuario": "Professor"
+        },
+        "livro": {
+            "titulo": "9781492071769",
+            "isbn": "Kyle Simpson"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:16:20",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Lucas Santos",
+            "email": "lucas.santos@example.com",
+            "tipoUsuario": "Aluno"
+        },
+        "livro": {
+            "titulo": "9780134670958",
+            "isbn": "Andrew Hunt e David Thomas"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:16:28",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Juliana Almeida",
+            "email": "juliana.almeida@example.com",
+            "tipoUsuario": "Professor"
+        },
+        "livro": {
+            "titulo": "9780132350884",
+            "isbn": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:18:29",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Tatiane Martins",
+            "email": "tatiane.martins@example.com",
+            "tipoUsuario": "Professor"
+        },
+        "livro": {
+            "titulo": "9780134800432",
+            "isbn": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:18:38",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Fernando Rocha",
+            "email": "fernando.rocha@example.com",
+            "tipoUsuario": "Aluno"
+        },
+        "livro": {
+            "titulo": "9780201616224",
+            "isbn": "Donald E. Knuth"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:18:48",
+        "dataDevolucao": "31\/10\/2024 18:58:52"
+    },
+    {
+        "usuario": {
+            "nome": "Felipe Souza",
+            "email": "felipe.souza@example.com",
+            "tipoUsuario": "Aluno"
+        },
+        "livro": {
+            "titulo": "9781491946220",
+            "isbn": "Eric Matthes"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:18:56",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Beatriz Lima",
+            "email": "beatriz.lima@example.com",
+            "tipoUsuario": "Professor"
+        },
+        "livro": {
+            "titulo": "9780135166307",
+            "isbn": "Herbert Schildt"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:19:08",
+        "dataDevolucao": null
+    },
+    {
+        "usuario": {
+            "nome": "Sofia Pires",
+            "email": "sofia.pires@example.com",
+            "tipoUsuario": "Professor"
+        },
+        "livro": {
+            "titulo": "9780135081065",
+            "isbn": "Stuart Russell, Peter Norvig"
+        },
+        "dataEmprestimo": "31\/10\/2024 18:19:15",
+        "dataDevolucao": null
+    }
+]

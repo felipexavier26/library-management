@@ -1,0 +1,77 @@
+[
+    {
+        "nome": "Jo\u00e3o Silva",
+        "email": "joao.silva@example.com",
+        "tipoUsuario": "Aluno"
+    },
+    {
+        "nome": "Maria Oliveira",
+        "email": "maria.oliveira@example.com",
+        "tipoUsuario": "Professor"
+    },
+    {
+        "nome": "Carlos Pereira",
+        "email": "carlos.pereira@example.com",
+        "tipoUsuario": "Aluno"
+    },
+    {
+        "nome": "Ana Costa",
+        "email": "ana.costa@example.com",
+        "tipoUsuario": "Professor"
+    },
+    {
+        "nome": "Lucas Santos",
+        "email": "lucas.santos@example.com",
+        "tipoUsuario": "Aluno"
+    },
+    {
+        "nome": "Juliana Almeida",
+        "email": "juliana.almeida@example.com",
+        "tipoUsuario": "Professor"
+    },
+    {
+        "nome": "Rafael Lima",
+        "email": "rafael.lima@example.com",
+        "tipoUsuario": "Aluno"
+    },
+    {
+        "nome": "Tatiane Martins",
+        "email": "tatiane.martins@example.com",
+        "tipoUsuario": "Professor"
+    },
+    {
+        "nome": "Fernando Rocha",
+        "email": "fernando.rocha@example.com",
+        "tipoUsuario": "Aluno"
+    },
+    {
+        "nome": "Patr\u00edcia Gomes",
+        "email": "patricia.gomes@example.com",
+        "tipoUsuario": "Professor"
+    },
+    {
+        "nome": "Felipe Souza",
+        "email": "felipe.souza@example.com",
+        "tipoUsuario": "Aluno"
+    },
+    {
+        "nome": "Beatriz Lima",
+        "email": "beatriz.lima@example.com",
+        "tipoUsuario": "Professor"
+    },
+    {
+        "nome": "Gabriel Ferreira",
+        "email": "gabriel.ferreira@example.com",
+        "tipoUsuario": "Aluno"
+    },
+    {
+        "nome": "Sofia Pires",
+        "email": "sofia.pires@example.com",
+        "tipoUsuario": "Professor"
+    },
+    {
+        "nome": "Andr\u00e9 Mendes",
+        "email": "andre.mendes@example.com",
+        "tipoUsuario": "Aluno"
+    }
+]

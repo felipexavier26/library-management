@@ -1,0 +1,98 @@
+{
+    "9780134190440": {
+        "titulo": "Aprendendo PHP, MySQL e Javascript",
+        "autor": "Robin Nixon",
+        "isbn": "9780134190440",
+        "disponivel": true
+    },
+    "9781491950296": {
+        "titulo": "JavaScript: The Good Parts",
+        "autor": "Douglas Crockford",
+        "isbn": "9781491950296",
+        "disponivel": true
+    },
+    "9780134757599": {
+        "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "autor": "Robert C. Martin",
+        "isbn": "9780134757599",
+        "disponivel": true
+    },
+    "9781492071769": {
+        "titulo": "You Don't Know JS Yet",
+        "autor": "Kyle Simpson",
+        "isbn": "9781492071769",
+        "disponivel": true
+    },
+    "9780134670958": {
+        "titulo": "The Pragmatic Programmer",
+        "autor": "Andrew Hunt e David Thomas",
+        "isbn": "9780134670958",
+        "disponivel": true
+    },
+    "9781491903995": {
+        "titulo": "Eloquent JavaScript",
+        "autor": "Marijn Haverbeke",
+        "isbn": "9781491903995",
+        "disponivel": true
+    },
+    "9780132350884": {
+        "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "isbn": "9780132350884",
+        "disponivel": true
+    },
+    "9781491954249": {
+        "titulo": "Learning Python",
+        "autor": "Mark Lutz",
+        "isbn": "9781491954249",
+        "disponivel": true
+    },
+    "9780201616224": {
+        "titulo": "The Art of Computer Programming",
+        "autor": "Donald E. Knuth",
+        "isbn": "9780201616224",
+        "disponivel": true
+    },
+    "9780134800432": {
+        "titulo": "Introduction to Algorithms",
+        "autor": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "isbn": "9780134800432",
+        "disponivel": true
+    },
+    "9780134602413": {
+        "titulo": "The Mythical Man-Month",
+        "autor": "Frederick P. Brooks Jr.",
+        "isbn": "9780134602413",
+        "disponivel": true
+    },
+    "9781491946220": {
+        "titulo": "Python Crash Course",
+        "autor": "Eric Matthes",
+        "isbn": "9781491946220",
+        "disponivel": true
+    },
+    "9780134755595": {
+        "titulo": "Code Complete: A Practical Handbook of Software Construction",
+        "autor": "Steve McConnell",
+        "isbn": "9780134755595",
+        "disponivel": true
+    },
+    "9780135166307": {
+        "titulo": "Java: A Beginner's Guide",
+        "autor": "Herbert Schildt",
+        "isbn": "9780135166307",
+        "disponivel": true
+    },
+    "9780135081065": {
+        "titulo": "Artificial Intelligence: A Modern Approach",
+        "autor": "Stuart Russell, Peter Norvig",
+        "isbn": "9780135081065",
+        "disponivel": true
+    },
+    "9780135167465": {
+        "titulo": "Effective Java",
+        "autor": "Joshua Bloch",
+        "isbn": "9780135167465",
+        "disponivel": true
+    }
+}
