@@ -33,7 +33,7 @@ A Library Management System (LMS) is a web application designed to manage librar
 
 - PHP 8.x or higher
 - Composer
-- MySQL or MariaDB
+- MySQL 
 - Web server (Apache or Nginx)
 
 ## Installation
