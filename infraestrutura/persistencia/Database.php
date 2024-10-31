@@ -7,7 +7,7 @@ class Database {
 
     public function __construct() {
         try {
-            $this->pdo = new \PDO("sqlite:" . $this->banco);
+            $this->pdo = new \PDO("mysql:" . $this->banco);
             $this->pdo->setAttribute(\PDO::ATTR_ERRMODE, \PDO::ERRMODE_EXCEPTION);
         } catch (\PDOException $e) {
             die("Erro ao conectar ao banco de dados: " . $e->getMessage());
