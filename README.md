@@ -59,13 +59,6 @@ A Library Management System (LMS) is a web application designed to manage librar
 5. **Configure the database connection**:
     - Update the database configuration in the `.env` file or the respective configuration file as per your setup.
 
-## Usage
-
-To start using the Library Management System, open your web browser and navigate to `http://localhost/library-management/public`.
-
-### User Roles
-- **Admin**: Can manage users and books.
-- **User**: Can borrow and return books.
 
 ## Running Tests
 
